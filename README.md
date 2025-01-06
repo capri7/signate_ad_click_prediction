@@ -53,7 +53,8 @@ df.head()
 │   └── ensemble.ipynb
 │   └── stacking_NeuralNetwork.ipynb
 ├── images                # 可視化画像（EDAや結果のグラフ）
-│   └── feature_importance.png
+│   └── lightgbm_feature_importance.png
+│   └── shap_plot.png
 ├── README.md             # このファイル（プロジェクト説明）
 ├── .gitignore            # 無視するファイルリスト
 
