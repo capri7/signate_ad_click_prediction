@@ -1,0 +1,2 @@
+# signate_ad_click_prediction
+広告のクリック率を予測する
