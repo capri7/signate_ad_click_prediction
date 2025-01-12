@@ -20,7 +20,7 @@
 #### 評価指標
 - Logloss
 
-#### コンペティション概要ページ
+#### コンペティション概要
 <a href="https://signate.jp/competitions/132" target="_blank" rel="noopener noreferrer">コンペティション概要ページ</a>
 
 #### データ概要
