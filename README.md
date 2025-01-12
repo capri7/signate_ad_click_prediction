@@ -21,7 +21,7 @@
 - Logloss
 
 #### コンペティション概要ページ
-- [コンペティション概要ページ](https://www.signate.jp)
+- [コンペティション概要ページ](https://signate.jp/competitions/132)
 
 #### データ概要
 - **課題種別:** 分類
